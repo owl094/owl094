@@ -17,6 +17,12 @@
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?&style=for-the-badge&logo=springboot&logoColor=white)
 
 <br/>
+
+![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
 <br/>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
