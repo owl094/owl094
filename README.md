@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?section=header&type=Waving&color=black&height=300&text=Dev%20Owl&fontSize=90&fontColor=eeeeee&fontAlignY=35&desc=Simple%20is%20Best&descSize=30&descAlignY=0" width="100%">
+<img src="https://capsule-render.vercel.app/api?section=header&type=Waving&color=black&height=300&text=Dev%20Owl&fontSize=90&fontColor=dddddd&fontAlignY=35&desc=Simple%20is%20Best&descSize=30&descAlignY=0" width="100%">
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,4 +27,4 @@
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?section=footer&type=Waving&color=black&height=300&text=Happy%20Hacking&fontSize=90&fontColor=eeeeee&fontAlignY=60" width="100%">
+<img src="https://capsule-render.vercel.app/api?section=footer&type=Waving&color=black&height=300&text=Happy%20Hacking&fontSize=60&fontColor=cccccc&fontAlignY=60" width="100%">
