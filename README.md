@@ -1,9 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?section=header&type=Waving&color=black&height=300&text=Dev%20Owl&fontSize=90&fontColor=dddddd&fontAlignY=35&desc=Simple%20is%20Best&descSize=30&descAlignY=0" width="100%">
 
+### About
+- 6+ years Full-stack Web Engineer
+
 ### Interests
-- Cloud Infrastructure
-- AI Tech Trends
 - Pragmatic & Sustainable Development
+- Effective Communication Skills
+- Observability & Monitoring
+- Automation
+- AI Tech Trends
+
 
 ### Skills
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
