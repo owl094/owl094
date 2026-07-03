@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?section=header&type=Waving&color=black&height=300&text=Dev%20Owl&fontSize=90&fontColor=eeeeee&fontAlignY=35&desc=Simple%20is%20Best&descSize=30&descAlignY=0)
+<img src="https://capsule-render.vercel.app/api?section=header&type=Waving&color=black&height=300&text=Dev%20Owl&fontSize=90&fontColor=eeeeee&fontAlignY=35&desc=Simple%20is%20Best&descSize=30&descAlignY=0" width="100%">
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -16,10 +16,9 @@
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?&style=for-the-badge&logo=springboot&logoColor=white)
 
----
+<br/>
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats-inky-three-18.vercel.app/api?username=owl094&show_icons=true&theme=tokyonight&cache_seconds=86400&count_private=true)](https://github.com/owl094)
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 
-[![Top Langs](https://github-readme-stats-inky-three-18.vercel.app/api/top-langs/?username=owl094&layout=compact&theme=tokyonight&cache_seconds=86400&count_private=true)](https://github.com/owl094)
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=black&height=300&text=Happy%20Hacking&fontSize=90&fontColor=eeeeee&fontAlignY=60)
+<img src="https://capsule-render.vercel.app/api?section=footer&type=Waving&color=black&height=300&text=Happy%20Hacking&fontSize=90&fontColor=eeeeee&fontAlignY=60" width="100%">
